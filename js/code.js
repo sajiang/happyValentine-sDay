@@ -22,7 +22,7 @@
 				if (progress >= str.length) {
 					clearInterval(timer);
 				}
-			}, 40);
+			}, 50);
 		});
 		return this;
 	};
